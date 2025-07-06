@@ -10,9 +10,9 @@ SESSION_ID: process.env.SESSION_ID || "malvin~p3N11ayT#UKVz_-1H_fKtQMm_rGejbD3nJ
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+BOT_NAME: process.env.BOT_NAME || "Pakaya-MD",
 // add bot name here for menu
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "inbox",
 // make bot public-private-inbox-group 
 
 LINK_WHITELIST: "youtube.com,github.com",
@@ -74,7 +74,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+              DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Pakaya-MD*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
